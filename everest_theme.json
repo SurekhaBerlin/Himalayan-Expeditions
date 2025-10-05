@@ -1,0 +1,21 @@
+{
+  "name": "Everest Tailwind Theme",
+  "dataColors": [
+    "#386641",  // Hunter Green
+    "#6a994e",  // Asparagus
+    "#a7c957",  // Yellow Green
+    "#fdf7d6",  // Cornsilk
+    "#de6560",  // Indian Red
+    "#ca3d3f"   // Persian Red
+  ],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#386641",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#386641" } }]
+      }
+    }
+  }
+}

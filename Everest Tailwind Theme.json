@@ -1,0 +1,14 @@
+{
+  "name": "Everest Tailwind Theme",
+  "dataColors": [
+    "#386641",
+    "#6a994e",
+    "#a7c957",
+    "#fdf7d6",
+    "#de6560",
+    "#ca3d3f"
+  ],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#386641"
+}
